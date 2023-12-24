@@ -136,4 +136,66 @@ height: 135px;
 .words1 h1{
     color: #2EA3F2;
 }
+.foto{
+    display: flex;
+  justify-content: space-between;
+    width: 100%;
+    margin-bottom: 0px;
+}
+.re{
+    margin-top: -12px;
+    background-color: #EEE;
+    padding-bottom: 14px;
+    padding-left: 35px;
+    padding-top: 30px;
+    font-size: 20px;
+    width: 77%;
+}
+.er{
+    margin-top: -4px;
+    background-color: #EEE;
+    padding-bottom: 12px;
+    padding-left: 35px;
+    font-size: 11px;
+    width: 77%;
+
+}
+.foto img{
+    width: 90%;
+}
+#ok{
+    margin-left: 600px;
+    margin-top: 20px;
+}
+.elem{
+    margin-top: 110px;
+    margin-bottom: 110px;
+    display: flex;
+    justify-content: space-around;
+}
+.elem1{
+    color: #4D4D4D;
+font-family: Gemunu Libre;
+font-size: 15px;
+}
+.elem2{
+    color: #2EA3F2;
+    font-family: Finger Paint;
+    font-size: 15px;
+}
+.elem3{
+    color: #4D4D4D;
+font-family: JejuMyeongjo;
+font-size: 15px;
+}
+.elem4{
+    color:#4D4D4D;
+font-family: Caveat Brush;
+font-size:15px;
+}
+.elem5{
+    color:#4D4D4D;
+font-family: Graduate;
+font-size: 15px;
+}
 
